@@ -24,7 +24,7 @@ public class TarefaPOO_FX_Ex18 extends Application {
         tfNum.setPrefHeight(50);
         tfNum.relocate(23, 25);
 
-        Button btnCe = new Button("CE");
+        Button btnCe = new Button("Ce");
         btnCe.setPrefHeight(20);
         btnCe.setPrefWidth(30);
         btnCe.relocate(347, 35);
